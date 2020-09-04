@@ -1,0 +1,19 @@
+.imdb-wrapper nav {
+  background-color: #555555;
+  color: whitesmoke;
+}
+.imdb-wrapper nav .form-control {
+  width: 80%;
+}
+.imdb-wrapper nav a {
+  font-size: 1rem;
+  padding: 0.8rem;
+}
+.imdb-wrapper footer {
+  background-color: #5a6268;
+}
+.imdb-wrapper footer h2 {
+  color: white;
+}
+
+/*# sourceMappingURL=style.css.map */
