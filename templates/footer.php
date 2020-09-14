@@ -2,7 +2,7 @@
 <body>
 <div class="container">
     <footer>
-        <h2>boomer</h2>
+        <h2>test</h2>
     </footer>
 </div>
 </body>
